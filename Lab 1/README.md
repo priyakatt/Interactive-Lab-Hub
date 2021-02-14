@@ -85,7 +85,7 @@ As mentioned before, it is important to have a centralized sensing system so tha
 
 Below is a link to the video of a demonstration of how the user can interact with the color-changing string lights:
 
-[Interaction with Color-changing String Lights](https://www.youtube.com/watch?v=3Z6kAyGkxHI}
+[Interaction with Color-changing String Lights](https://www.youtube.com/watch?v=3Z6kAyGkxHI)
 
 **Please indicate anyone you collaborated with on this Lab.**
 The discussion in breakout rooms with Caitlin, Luca, and Jacob were helpful in polishing my original idea. Special thanks to Caitlin for helping me film my final demonstration!
