@@ -56,25 +56,19 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 
 ## Part A. Plan 
 
-To stage the interaction with your interactive device, think about:
+My original idea for my interactive device was a color-changing lamp. The user would be able to use a color sensor to scan an object, and the lamp would turn that color. This type of device could be used decoratively, in either a bedroom or other living space. A sketch of the storyboard for this idea is shown below.
 
-_Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
+![alt text](https://github.com/priyakatt/Interactive-Lab-Hub/blob/Spring2021/Lab%201/storyboard1.jpg
+ "Color-changing Lamp")
 
-_Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
-
-_Activity:_ What is happening between the actors?
-
-_Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
-
-The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
-**Describe your setting, players, activity and goals here.**
-
-Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
 
-Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
 
+Discussions in my breakout room inspired me to modify my original idea from a color-changing lamp to color changing string lights. String lights are often used for decoration in dorm rooms, and the color-changing feature can allow the user to match their lights to a color they enjoy. A sketch of the storyboard for the color-changing string lights is shown below.
+
+![alt text](https://github.com/priyakatt/Interactive-Lab-Hub/blob/Spring2021/Lab%201/storyboard2.jpg
+ "Color-changing String Lights")
 
 ## Part B. Act out the Interaction
 
