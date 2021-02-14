@@ -2,38 +2,6 @@
 
 # Staging Interaction
 
-In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
-
-There is no actor that plays Tinkerbell--her existence in the play comes from the interactions that the other characters have with her.
-
-
-
-For lab this week, we draw on this and other inspirations from theatre to stage interactions with a device where the main mode of display/output for the interactive device you are designing is lighting. You will plot the interaction with a storyboard, and use your computer and a smartphone to experiment with what the interactions will look and feel like. _Make sure you read all the instructions and understand the whole of the laboratory activity before starting!_
-
-
-
-## Prep
-
-1. Set up [your Github "Lab Hub" repository](../../../) by [following these instructions](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2021Spring/readings/Submitting%20Labs.md).
-2. Set up the README.md for your Hub repository (for instance, so that it has your name and points to your own Lab 1) and [learn how](https://guides.github.com/features/mastering-markdown/) to post links to your submissions on your readme.md so we can find them easily.
-
-### For lab, you will need:
-
-1. Paper
-1. Markers/ Pen
-1. Smart Phone--Main required feature is that the phone needs to have a browser and display a webpage.
-1. Computer--we will use your computer to host a webpage which also features controls
-1. Found objects and materials--you’ll have to costume your phone so that it looks like some other device. These materials can include doll clothes, a paper lantern, a bottle, human clothes, a pillow case. Be creative!
-1. Scissors
-
-### Deliverables for this lab are: 
-1. Storyboard
-1. Sketches/photos of costumed device
-1. Any reflections you have on the process.
-1. Video sketch of the prototyped interaction.
-1. Submit these in the lab1 folder of your class [Github page], either as links or uploaded files. Each group member should post their own copy of the work to their own Lab Hub, even if some of the work is the same for each person in the group.
-
-
 ## Overview
 For this assignment, you are going to 
 
@@ -50,10 +18,6 @@ E) [Costume the device](#part-e-costume-the-device)
 F) [Record the interaction](#part-f-record)
 
 ## The Report
-This readme.md page in your own repository should be edited to include the work you have done. You can delete everything but the headers and the sections between the **stars**. Write the answers to the questions under the starred sentences. Include any material that explains what you did in this lab hub folder, and link it in the readme.
-
-Labs are due on Mondays. Make sure this page is linked to on your main class hub page.
-
 ## Part A. Plan 
 
 My original idea for my interactive device was a color-changing lamp. The user would be able to use a color sensor to scan an object, and the lamp would turn that color. This type of device could be used decoratively, in either a bedroom or other living space. A sketch of the storyboard for this idea is shown below.
@@ -90,31 +54,41 @@ Using Tinkerbelle was relatively straightforward for me. I cloned the Tinkerbell
 
 
 ## Part D. Wizard the device
-Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 **Include your first attempts at recording the set-up video here.**
 
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
+My first step here was to use the Tinkerbelle desktop to mimic the functionality of a color sensor. I put my phone next to an object with a color I wanted to imitate, and moved the color chooser until I arrived at a good match. Below is a link to the video of this attempt.
+
+[Color Matching with Tinkerbelle!](https://www.youtube.com/watch?v=0xtSLiDrbS4)
+
+Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
 **Show the follow-up work here.**
 
 ## Part E. Costume the device
 
-Only now should you start worrying about what the device should look like. Develop a costume so that you can use your phone as this device.
-
-Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
 **Include sketches of what your device might look like here.**
 
+Here is an image of how I costumed my device. The idea is that the string lights are in their "packaging" and can be removed to display the user's chosen light color.
+![alt text](https://github.com/priyakatt/Interactive-Lab-Hub/blob/Spring2021/Lab%201/costume.jpg
+ "Costume")
+
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
+
+As mentioned before, it is important to have a centralized sensing system so that the string lights themselves will be less bulky, and to streamline the data delivery process. Thus, the "packaging" would contain the color sensor and microcontroller to change the color of the lights. This may be cumbersome for someone who is looking to change the color of their lights often; however, it offers a simple way to change the light color automatically without having to match it manually. 
 
 
 ## Part F. Record
 
 **Take a video of your prototyped interaction.**
 
+Below is a link to the video of a demonstration of how the user can interact with the color-changing string lights:
+
+[Interaction with Color-changing String Lights](https://www.youtube.com/watch?v=3Z6kAyGkxHI}
+
 **Please indicate anyone you collaborated with on this Lab.**
-Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+The discussion in breakout rooms with Caitlin, Luca, and Jacob were helpful in polishing my original idea. Special thanks to Caitlin for helping me film my final demonstration!
 
 # Staging Interaction, Part 2 
 
