@@ -83,6 +83,8 @@ One thing that my collaborators and I realized was that there needed to be some 
 
 **Give us feedback on Tinkerbelle.**
 
+Using Tinkerbelle was relatively straightforward for me. I cloned the Tinkerbelle repository and installed the requirements.txt file using pip3. I was then able to run the tinker.py program using the python command, and command prompt displayed the "connected" line after I opened up httP://localhost:5000 on my desktop. I was then able to open http://192.168.1.94:5000 on my phone to control the color. Below is an image demonstrating how the color set by the desktop interface was mimicked on my phone.
+
 ![alt text](https://github.com/priyakatt/Interactive-Lab-Hub/blob/Spring2021/Lab%201/tinkerbelle_pink.jpg
  "Tinkerbelle in action")
 
