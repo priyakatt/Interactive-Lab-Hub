@@ -58,26 +58,26 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 
 My original idea for my interactive device was a color-changing lamp. The user would be able to use a color sensor to scan an object, and the lamp would turn that color. This type of device could be used decoratively, in either a bedroom or other living space. A sketch of the storyboard for this idea is shown below.
 
+**Include a picture of your storyboard here**
 ![alt text](https://github.com/priyakatt/Interactive-Lab-Hub/blob/Spring2021/Lab%201/storyboard1.jpg
  "Color-changing Lamp")
 
-**Include a picture of your storyboard here**
 
 **Summarize feedback you got here.**
-
-Discussions in my breakout room inspired me to modify my original idea from a color-changing lamp to color changing string lights. String lights are often used for decoration in dorm rooms, and the color-changing feature can allow the user to match their lights to a color they enjoy. A sketch of the storyboard for the color-changing string lights is shown below.
+Discussions in my breakout room inspired me to modify my original idea from a color-changing lamp to color changing string lights. String lights are often used for decoration in dorm rooms and bedrooms, and the color-changing feature can allow the user to match their lights to a color they enjoy. A sketch of the storyboard for the color-changing string lights is shown below.
 
 ![alt text](https://github.com/priyakatt/Interactive-Lab-Hub/blob/Spring2021/Lab%201/storyboard2.jpg
  "Color-changing String Lights")
 
 ## Part B. Act out the Interaction
 
-Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
-
 **Are there things that seemed better on paper than acted out?**
+
+On paper it seems quite simple to "scan" an object and relay that information back to the lights. While acting out the interaction using string lights I had, I found that any sort of embedded color sensor would need to be able to communicate with every light in the string, so that the color would be uniform across all the lights. In addition, a centralized sensing system would allow the device to be less bulky. 
 
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
 
+One thing that my collaborators and I realized was that there needed to be some sort of mechanism that told the string lights to stop changing color (to avoid the string lights adapting to the color of the wall they are placed on). In order to address this issue, as well as implement a centralized sensor system, I decided that the color changing interation could occur when the string lights are in some sort of packaging, and when they are removed from the packaging, they will maintain their color. The user could return the string lights to the packaging in order to change the color if they so desire. 
 
 ## Part C. Prototype the device
 
