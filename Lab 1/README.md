@@ -61,8 +61,6 @@ My first step here was to use the Tinkerbelle desktop to mimic the functionality
 
 [Color Matching with Tinkerbelle!](https://www.youtube.com/watch?v=0xtSLiDrbS4)
 
-Now, change the goal within the same setting, and update the interaction with the paper prototype. 
-
 **Show the follow-up work here.**
 
 ## Part E. Costume the device
