@@ -95,15 +95,25 @@ This describes the second week's work for this lab activity.
 
 ## Prep (to be done before Lab on Wednesday)
 
-You will be assigned three partners from another group. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear. 
-
 **Summarize feedback from your partners here.**
+Feedback:
+I recieved feedback from Grace Tan, Caitlin Stanton, Sujith Naapa Ramesh, and Andrew Tsai. Here is a summary of the points they made:
+- Cool that it can match with any aesthetic easily! I wonder if it could be something wearable to help people enhance their outfits better?
+- The color sensor could be embedded directly in lights instead of the packaging, or could respond like LED smart bulbs with voice commands or through an app.
+- Maybe incorporate a sound input to modify color if the user would like to customize after scanning.
+- There could also be an option where the user can manually change the color if they want a specific color but don't have an object that matches/
+
 
 ## Make it your own
 
-Do last week’s assignment again, but this time: 
-1) It doesn’t have to (just) use light, 
-2) You can use any modality (e.g., vibration, sound) to prototype the behaviors, 
-3) We will be grading with an emphasis on creativity. 
-
 **Document everything here.**
+
+For the second part of the lab, I was really inspired by the comment I recieved about using the Color changing string lights as a wearable for customizable fashion. I also wanted to use the comments I recieved about manual color changing and sound inputs to the device. I integrated these things into a wearable accessory that can be worn in multiple body locations. To change the color of the device, the user can use the wake up phrase "Hey Tinkerbelle" + the desired color.
+A sketch of the storyboard is shown below.
+
+![alt text](https://github.com/priyakatt/Interactive-Lab-Hub/blob/Spring2021/Lab%201/storyboard3.jpg
+ "Color-changing Wearable")
+ 
+ Here is a link to a video demonstration of the device:
+ [Interaction with the Wearable Light Accessory](https://www.youtube.com/watch?v=BNH44TWR2XA)
+
