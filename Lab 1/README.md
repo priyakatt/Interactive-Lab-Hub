@@ -52,6 +52,14 @@ Using Tinkerbelle was relatively straightforward for me. I cloned the Tinkerbell
 ![alt text](https://github.com/priyakatt/Interactive-Lab-Hub/blob/Spring2021/Lab%201/tinkerbelle_pink.jpg
  "Tinkerbelle in action")
 
+<<<<<<< HEAD
+=======
+We invented this tool for this lab! 
+
+If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
+
+**Give us feedback on Tinkerbelle.**
+>>>>>>> 2226ae6286232393c4220ed9e64800cb41deedc8
 
 ## Part D. Wizard the device
 
@@ -106,6 +114,7 @@ I recieved feedback from Grace Tan, Caitlin Stanton, Sujith Naapa Ramesh, and An
 
 ## Make it your own
 
+<<<<<<< HEAD
 **Document everything here.**
 
 For the second part of the lab, I was really inspired by the comment I recieved about using the Color changing string lights as a wearable for customizable fashion. I also wanted to use the comments I recieved about manual color changing and sound inputs to the device. I integrated these things into a wearable accessory that can be worn in multiple body locations. To change the color of the device, the user can use the wake up phrase "Hey Tinkerbelle" + the desired color.
@@ -117,3 +126,6 @@ A sketch of the storyboard is shown below.
  Here is a link to a video demonstration of the device:
  [Interaction with the Wearable Light Accessory](https://www.youtube.com/watch?v=BNH44TWR2XA)
 
+=======
+**Document everything here. (Particularly we'd like to see the storyboard and video, although photos of the prototype are also great.)**
+>>>>>>> 2226ae6286232393c4220ed9e64800cb41deedc8
