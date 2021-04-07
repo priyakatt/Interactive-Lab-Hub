@@ -158,3 +158,7 @@ Reiterating:
 5. Submit these in the lab 4 folder of your class [Github page], either as links or uploaded files. Each group member should post their own copy of the work to their own Lab Hub, even if some of the work is the same for each person in the group.
 
 
+> ### "Acts Like"
+
+> Now that our device "looks" like a mancala board, and "acts" with the functionality of the mancala game, we think about the user interaction -- how to make the game "act" and feel as though the user is playing a game of mancala. We encountered this task from two main angles. One, making sure the way the user interacts with the imaginary mancala game is as similar as possible to if they were playing with a traditional mancala board, and two, making sure the imaginary mancala game responds in a way that the user would expect. From our experience with playing mancala, and our experimentations with the paper prototype, we established the tapping mechanism as a way to "pick up" and "drop" the piececs into the wells. While this was a clear way to implent the game functions, we found that the device was lacking in respnsiveness. One of the most unique things about traditional mancala is the feel and sound of clattering marbles against the wooden game board. With "invisble" pieces and a plastic frame, our device doesn't inherently capture this iconic trait. After discussions with Wendy, we decided to add sounds as part of the partner graphic user interface in order to make the device "act" more like the traditional game.
+
