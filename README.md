@@ -11,3 +11,7 @@ Please place links here to the README.md's for each of your labs here:
 
 [Lab 4. Ph-UI!!!](Lab%204/)
 
+<<<<<<< HEAD
+=======
+[Lab 5. Observant Systems](Lab%205/)
+>>>>>>> 672aec67ec81380122edffb0b7d7021fe0e53706
