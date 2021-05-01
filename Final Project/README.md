@@ -30,9 +30,9 @@ Your project is to design and build an interactive device to suit a specific app
 > Inspired by the “Start Reactor” task, this consists of several buttons that will blink in a pattern that the player mimics. The pattern appends in length at each stage until they reach the final pattern.
 > ### Honorable Mentions
 > Here are more tasks that we had come up with during our brainstorming process. While these would have been fun to include, we kept our time constraint in mind, and also noted that these tasks were not as similar to the original tasks as the ones we ultimately chose. 
-#### Engine Alignment 
+> #### Engine Alignment 
 > The user would move the potentiometer until it reached a certain measurement. Inspired by the “Align Engine Output” task, which requires the player to line up a dial with a line on the screen.
-#### Clear out the Dumpster
+> #### Clear out the Dumpster
 > In this task, which is inspired by ”Empty Garbage”, the player would hold down the joystick (acting as the trash shoot lever), for a number of seconds.
 > #### “Medical” Scan
 > inspired by the “Submit Scan” task, would consist of the game asking the player to hold up a certain amount of fingers, and using the camera to scan and check if the correct number of fingers are held up. This is not very similar to the original task, which requires no interaction from the player.
