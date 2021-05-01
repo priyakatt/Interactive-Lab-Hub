@@ -34,7 +34,7 @@ Your project is to design and build an interactive device to suit a specific app
 > The user would move the potentiometer until it reached a certain measurement. Inspired by the “Align Engine Output” task, which requires the player to line up a dial with a line on the screen.
 #### Clear out the Dumpster
 > In this task, which is inspired by ”Empty Garbage”, the player would hold down the joystick (acting as the trash shoot lever), for a number of seconds.
-####“Medical” Scan
+> #### “Medical” Scan
 > inspired by the “Submit Scan” task, would consist of the game asking the player to hold up a certain amount of fingers, and using the camera to scan and check if the correct number of fingers are held up. This is not very similar to the original task, which requires no interaction from the player.
 
  
