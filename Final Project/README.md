@@ -26,7 +26,7 @@ Your project is to design and build an interactive device to suit a specific app
 > 
 > ## Tasks
 > 
-> ###Wires
+> ### Wires
 > 
 > ### Card Swipe
 > 
