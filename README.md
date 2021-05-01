@@ -13,6 +13,7 @@ Please place links here to the README.md's for each of your labs here:
 
 [Lab 5. Observant Systems](https://github.com/caitlinstanton/Interactive-Lab-Hub/blob/Spring2021/Lab%205/README.md)(Collaborated with Grace Tan and Caitlin Stanton)
 
-[Lab 6. Where We Go One, We Go All](Lab%206/)
+[Lab 6. Where We Go One, We Go All](https://github.com/caitlinstanton/Interactive-Lab-Hub/blob/Spring2021/Lab%206/README.md)(Collaborated with Grace Tan and Caitlin Stanton)
+
 
 [Final Project](Final%20Project/)
