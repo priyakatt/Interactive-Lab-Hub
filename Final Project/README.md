@@ -22,9 +22,17 @@ Your project is to design and build an interactive device to suit a specific app
 3. Video of someone using your project (or as safe a version of that as can be managed given social distancing)
 4. Reflections on process (What have you learned or wish you knew at the start?)
 
-#### Test
-> # Test
-> Test
+> ## Motivation
+> 
+> ## Tasks
+> 
+> ###Wires
+> 
+> ### Card Swipe
+> 
+> ### Keypad
+> 
+
 
 
 ## Teams
